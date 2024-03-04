@@ -1,2 +1,1 @@
-# RestaurantePython
-É um código que envolve restaurantes usando python, possui classes e orientações a objetos
+É um projeto restaurantes usando python, possui classes e orientações a objetos
